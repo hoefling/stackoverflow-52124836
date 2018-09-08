@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "istanbul cover _mocha js"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}
