@@ -13,7 +13,7 @@ $ yarn install
 Generate `istanbul` coverage report first:
 
 ```sh
-$ node_modules/.bin/istanbul cover node_modules/.bin/_mocha
+$ yarn test
 
   Array
     #length
