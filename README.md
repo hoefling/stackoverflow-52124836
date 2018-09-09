@@ -14,6 +14,10 @@ Generate `istanbul` coverage report first:
 
 ```sh
 $ yarn test
+yarn run v1.9.4
+warning package.json: No license field
+$ istanbul cover _mocha js
+
 
   Array
     #length
